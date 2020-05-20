@@ -1,0 +1,1 @@
+Bisiklet sýnýfýndan hýz düþürme, hýz yükseltme ve koltuk yüksekliði ile ilgili gerekli kalýtým iþlemlerini yaparak bunlarýn java kodunu yazýnýz.
